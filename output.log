@@ -1,0 +1,374 @@
+2024-09-18 20:09:13,970 - debugger - DEBUG - --- Listening to Audio Stream ---
+2024-09-18 20:09:18,545 - debugger - DEBUG - Noise classified as: other | Gunshot:   3.09% | Other:  96.91%
+2024-09-18 20:09:25,171 - debugger - DEBUG - Noise classified as: other | Gunshot:   4.82% | Other:  95.18%
+2024-09-18 20:09:27,129 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:09:29,173 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:09:31,143 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:09:51,114 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.45% | Other:  99.55%
+2024-09-18 20:09:53,147 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.10% | Other:  99.90%
+2024-09-18 20:09:55,115 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.69% | Other:  99.31%
+2024-09-18 20:10:01,179 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.34% | Other:  99.66%
+2024-09-18 20:10:05,100 - debugger - DEBUG - Noise classified as: other | Gunshot:   3.15% | Other:  96.85%
+2024-09-18 20:10:07,149 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:10:09,108 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:10:11,160 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.09% | Other:  99.91%
+2024-09-18 20:10:13,112 - debugger - DEBUG - Noise classified as: gun_shot | Gunshot:  66.28% | Other:  33.72%
+2024-09-18 20:10:13,623 - debugger - DEBUG -  *** Sent out an SMS alert to all designated recipients using Twilio *** 
+2024-09-18 20:10:13,624 - debugger - DEBUG -  ** Finished evaluating an audio sample with the model ** 
+2024-09-18 20:10:23,109 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.16% | Other:  99.84%
+2024-09-18 20:10:25,340 - debugger - DEBUG - Noise classified as: other | Gunshot:   4.51% | Other:  95.49%
+2024-09-18 20:25:29,910 - debugger - DEBUG - Noise classified as: other | Gunshot:   3.49% | Other:  96.51%
+2024-09-18 20:34:56,167 - debugger - DEBUG - Noise classified as: other | Gunshot:   4.22% | Other:  95.78%
+2024-09-18 20:34:58,412 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.86% | Other:  99.14%
+2024-09-18 20:37:06,872 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.32% | Other:  99.68%
+2024-09-18 20:37:08,799 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.17% | Other:  99.83%
+2024-09-18 20:37:10,800 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.69% | Other:  99.31%
+2024-09-18 20:37:12,819 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.11% | Other:  99.89%
+2024-09-18 20:37:14,834 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.01% | Other:  99.99%
+2024-09-18 20:37:16,775 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.02% | Other:  99.98%
+2024-09-18 20:37:18,738 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.04% | Other:  99.96%
+2024-09-18 20:37:20,788 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.01% | Other:  99.99%
+2024-09-18 20:37:22,749 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.06% | Other:  99.94%
+2024-09-18 20:37:24,791 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.13% | Other:  99.87%
+2024-09-18 20:37:26,762 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.10% | Other:  99.90%
+2024-09-18 20:37:28,803 - debugger - DEBUG - Noise classified as: other | Gunshot:   2.42% | Other:  97.58%
+2024-09-18 20:37:30,768 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.54% | Other:  99.46%
+2024-09-18 20:37:32,817 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.18% | Other:  99.82%
+2024-09-18 20:37:42,820 - debugger - DEBUG - Noise classified as: other | Gunshot:   1.20% | Other:  98.80%
+2024-09-18 20:37:46,829 - debugger - DEBUG - Noise classified as: other | Gunshot:   2.06% | Other:  97.94%
+2024-09-18 20:37:50,736 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.49% | Other:  99.51%
+2024-09-18 20:37:54,747 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.88% | Other:  99.12%
+2024-09-18 20:37:58,759 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.05% | Other:  99.95%
+2024-09-18 20:38:00,803 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.05% | Other:  99.95%
+2024-09-18 20:38:06,777 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.23% | Other:  99.77%
+2024-09-18 20:38:08,741 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.53% | Other:  99.47%
+2024-09-18 20:38:10,793 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.06% | Other:  99.94%
+2024-09-18 20:38:12,749 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.13% | Other:  99.87%
+2024-09-18 20:38:14,799 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.01% | Other:  99.99%
+2024-09-18 20:38:22,736 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.09% | Other:  99.91%
+2024-09-18 20:38:24,791 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.10% | Other:  99.90%
+2024-09-18 20:38:26,755 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.05% | Other:  99.95%
+2024-09-18 20:38:28,792 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.48% | Other:  99.52%
+2024-09-18 20:38:30,757 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.04% | Other:  99.96%
+2024-09-18 20:38:32,804 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.06% | Other:  99.94%
+2024-09-18 20:38:34,778 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.01% | Other:  99.99%
+2024-09-18 20:38:36,816 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.17% | Other:  99.83%
+2024-09-18 20:38:38,785 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.16% | Other:  99.84%
+2024-09-18 20:39:00,800 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.46% | Other:  99.54%
+2024-09-18 20:39:06,768 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.06% | Other:  99.94%
+2024-09-18 20:39:08,814 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:39:11,070 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.03% | Other:  99.97%
+2024-09-18 20:39:15,433 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.80% | Other:  99.20%
+2024-09-18 20:39:17,791 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:39:19,786 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:39:21,799 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:39:23,786 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.07% | Other:  99.93%
+2024-09-18 20:39:25,790 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:39:27,786 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:39:29,791 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:39:31,783 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:39:33,790 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:39:35,786 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:39:37,791 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:39:39,787 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:39:41,788 - debugger - DEBUG - Noise classified as: other | Gunshot:  44.36% | Other:  55.64%
+2024-09-18 20:39:43,786 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.05% | Other:  99.95%
+2024-09-18 20:39:45,789 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.02% | Other:  99.98%
+2024-09-18 20:39:47,782 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:39:49,788 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:39:51,784 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:39:53,791 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.02% | Other:  99.98%
+2024-09-18 20:39:55,787 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:39:57,791 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:39:59,787 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:40:01,790 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.20% | Other:  99.80%
+2024-09-18 20:40:03,789 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:40:05,791 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:40:07,788 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:40:09,794 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:40:11,790 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:40:13,795 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:40:15,792 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.06% | Other:  99.94%
+2024-09-18 20:40:17,790 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:40:19,786 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:40:21,787 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:40:23,785 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:40:25,791 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.01% | Other:  99.99%
+2024-09-18 20:40:27,783 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:40:29,795 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:40:31,785 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:40:33,789 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.12% | Other:  99.88%
+2024-09-18 20:40:35,788 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:40:37,790 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:40:39,804 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:40:41,791 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:40:43,796 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:40:45,790 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:40:47,783 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:40:49,794 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:40:51,790 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:40:53,796 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:40:55,785 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:40:57,789 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:40:59,786 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:41:01,790 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.01% | Other:  99.99%
+2024-09-18 20:41:03,792 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:41:05,792 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:41:07,799 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:41:09,791 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:41:11,784 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:41:13,789 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:41:15,789 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:41:17,790 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:41:19,781 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:41:21,819 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:41:23,788 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.01% | Other:  99.99%
+2024-09-18 20:41:25,832 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:41:27,812 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:41:29,790 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.10% | Other:  99.90%
+2024-09-18 20:41:31,799 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:41:33,797 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:41:35,784 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.01% | Other:  99.99%
+2024-09-18 20:41:37,792 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:41:39,786 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:41:41,790 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.03% | Other:  99.97%
+2024-09-18 20:41:43,782 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.01% | Other:  99.99%
+2024-09-18 20:41:45,788 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.01% | Other:  99.99%
+2024-09-18 20:41:47,785 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.01% | Other:  99.99%
+2024-09-18 20:41:49,788 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.08% | Other:  99.92%
+2024-09-18 20:41:51,781 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:41:53,790 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.02% | Other:  99.98%
+2024-09-18 20:41:55,783 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:41:57,791 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.02% | Other:  99.98%
+2024-09-18 20:41:59,784 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.02% | Other:  99.98%
+2024-09-18 20:42:01,790 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:42:03,785 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:42:05,792 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:42:07,785 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.01% | Other:  99.99%
+2024-09-18 20:42:09,791 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:42:11,785 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:42:13,790 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:42:15,790 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:42:17,791 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:42:19,793 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.08% | Other:  99.92%
+2024-09-18 20:42:21,790 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:42:23,786 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:42:25,809 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:42:27,860 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:42:29,799 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 20:42:31,792 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.22% | Other:  99.78%
+2024-09-18 20:42:33,792 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:14:03,551 - debugger - DEBUG - --- Listening to Audio Stream ---
+2024-09-18 21:14:06,558 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:14:07,566 - debugger - DEBUG - Noise classified as: other | Gunshot:   2.80% | Other:  97.20%
+2024-09-18 21:14:09,619 - debugger - DEBUG - Noise classified as: other | Gunshot:   6.82% | Other:  93.18%
+2024-09-18 21:14:11,998 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:14:13,990 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:17:59,393 - debugger - DEBUG - --- Listening to Audio Stream ---
+2024-09-18 21:18:02,350 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:19:33,081 - debugger - DEBUG - --- Listening to Audio Stream ---
+2024-09-18 21:19:36,050 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:19:37,106 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:19:39,149 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:19:41,114 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:19:43,160 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:19:45,128 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:19:47,172 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:19:49,135 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:19:51,105 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:19:53,148 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.02% | Other:  99.98%
+2024-09-18 21:19:55,110 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.01% | Other:  99.99%
+2024-09-18 21:19:57,162 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:19:59,121 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:20:01,173 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:20:03,134 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.08% | Other:  99.92%
+2024-09-18 21:20:05,182 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:20:07,141 - debugger - DEBUG - Noise classified as: other | Gunshot:   1.64% | Other:  98.36%
+2024-09-18 21:20:09,102 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:20:11,152 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:20:13,115 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.40% | Other:  99.60%
+2024-09-18 21:20:15,162 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.03% | Other:  99.97%
+2024-09-18 21:20:17,128 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:20:19,172 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:20:21,137 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:20:23,100 - debugger - DEBUG - Noise classified as: other | Gunshot:   8.04% | Other:  91.96%
+2024-09-18 21:20:25,148 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:20:27,135 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:20:29,161 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.18% | Other:  99.82%
+2024-09-18 21:20:31,127 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:20:33,170 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:20:35,129 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:21:05,893 - debugger - DEBUG - --- Listening to Audio Stream ---
+2024-09-18 21:21:08,920 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:21:09,919 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:21:11,964 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.08% | Other:  99.92%
+2024-09-18 21:21:13,925 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:21:15,977 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.03% | Other:  99.97%
+2024-09-18 21:21:17,941 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:21:19,991 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.05% | Other:  99.95%
+2024-09-18 21:21:21,953 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:21:23,909 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.84% | Other:  99.16%
+2024-09-18 21:21:25,963 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:21:27,923 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:21:29,973 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.09% | Other:  99.91%
+2024-09-18 21:21:31,931 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:21:33,975 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:21:35,945 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:21:37,995 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.01% | Other:  99.99%
+2024-09-18 21:21:39,957 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.23% | Other:  99.77%
+2024-09-18 21:21:41,920 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:21:43,968 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.01% | Other:  99.99%
+2024-09-18 21:21:45,928 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:21:47,976 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:21:49,941 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.44% | Other:  99.56%
+2024-09-18 21:21:51,988 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:21:53,947 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:21:55,914 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:21:57,964 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:21:59,928 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.02% | Other:  99.98%
+2024-09-18 21:22:01,974 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:22:03,933 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:22:05,986 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.01% | Other:  99.99%
+2024-09-18 21:22:07,941 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:22:09,992 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:22:11,954 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.02% | Other:  99.98%
+2024-09-18 21:22:13,922 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.05% | Other:  99.95%
+2024-09-18 21:22:15,968 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:22:17,938 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.21% | Other:  99.79%
+2024-09-18 21:22:19,979 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:22:21,940 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:22:23,987 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:22:25,948 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:22:27,913 - debugger - DEBUG - Noise classified as: other | Gunshot:   6.49% | Other:  93.51%
+2024-09-18 21:22:29,966 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.04% | Other:  99.96%
+2024-09-18 21:22:31,923 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.01% | Other:  99.99%
+2024-09-18 21:22:33,964 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:23:11,675 - debugger - DEBUG - --- Listening to Audio Stream ---
+2024-09-18 21:23:14,614 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:23:15,700 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:23:17,745 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:23:19,708 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:23:21,756 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.01% | Other:  99.99%
+2024-09-18 21:23:23,729 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:23:25,767 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.02% | Other:  99.98%
+2024-09-18 21:23:27,734 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:23:29,697 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:23:31,747 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:23:33,701 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:23:35,753 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:23:37,721 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:23:39,768 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:23:41,726 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:23:43,775 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:23:45,738 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:23:47,708 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:23:49,752 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:23:51,712 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:23:53,765 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:23:55,724 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:23:57,770 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:23:59,730 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:01,698 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:03,748 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.03% | Other:  99.97%
+2024-09-18 21:24:05,704 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.87% | Other:  99.13%
+2024-09-18 21:24:07,756 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:09,719 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.06% | Other:  99.94%
+2024-09-18 21:24:11,770 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:13,729 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:15,770 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:17,734 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:19,697 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:21,745 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:23,707 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:25,755 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:27,722 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:29,766 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:31,737 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:33,715 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:35,742 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:37,705 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:39,757 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:41,712 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:43,763 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:45,723 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:47,774 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:49,736 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:51,697 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:53,745 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:55,709 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:57,759 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:24:59,719 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:25:01,765 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:25:03,730 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:25:05,696 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:25:07,740 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:25:09,703 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.01% | Other:  99.99%
+2024-09-18 21:25:11,749 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:25:13,713 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.04% | Other:  99.96%
+2024-09-18 21:25:15,762 - debugger - DEBUG - Noise classified as: other | Gunshot:   1.88% | Other:  98.12%
+2024-09-18 21:25:17,724 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:25:19,772 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.42% | Other:  99.58%
+2024-09-18 21:25:21,733 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:25:23,700 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:25:25,746 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:25:27,711 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:25:29,760 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:25:31,718 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:25:33,766 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:25:35,734 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:25:37,716 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:25:39,739 - debugger - DEBUG - Noise classified as: other | Gunshot:   1.04% | Other:  98.96%
+2024-09-18 21:25:41,704 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.17% | Other:  99.83%
+2024-09-18 21:25:43,756 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:25:45,716 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.51% | Other:  99.49%
+2024-09-18 21:25:47,765 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.05% | Other:  99.95%
+2024-09-18 21:25:49,728 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:25:51,773 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.06% | Other:  99.94%
+2024-09-18 21:26:17,225 - debugger - DEBUG - Starting gunshot detection
+2024-09-18 21:26:17,225 - debugger - DEBUG - Starting gunshot detection
+2024-09-18 21:26:17,232 - debugger - DEBUG - Listening to audio stream...
+2024-09-18 21:26:17,232 - debugger - DEBUG - Listening to audio stream...
+2024-09-18 21:26:19,313 - debugger - DEBUG - Stopping gunshot detection
+2024-09-18 21:26:19,313 - debugger - DEBUG - Stopping gunshot detection
+2024-09-18 21:26:20,372 - debugger - DEBUG - Stopped listening to audio stream
+2024-09-18 21:26:20,372 - debugger - DEBUG - Stopped listening to audio stream
+2024-09-18 21:26:22,408 - debugger - DEBUG - Starting gunshot detection
+2024-09-18 21:26:22,408 - debugger - DEBUG - Starting gunshot detection
+2024-09-18 21:26:31,454 - debugger - DEBUG - Stopping gunshot detection
+2024-09-18 21:26:31,454 - debugger - DEBUG - Stopping gunshot detection
+2024-09-18 21:26:35,604 - debugger - DEBUG - Starting gunshot detection
+2024-09-18 21:26:35,604 - debugger - DEBUG - Starting gunshot detection
+2024-09-18 21:26:43,379 - debugger - DEBUG - Stopping gunshot detection
+2024-09-18 21:26:43,379 - debugger - DEBUG - Stopping gunshot detection
+2024-09-18 21:29:36,888 - debugger - DEBUG - --- Listening to Audio Stream ---
+2024-09-18 21:29:39,870 - debugger - DEBUG - Noise classified as: other | Gunshot:   3.56% | Other:  96.44%
+2024-09-18 21:29:40,918 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.02% | Other:  99.98%
+2024-09-18 21:30:35,134 - debugger - DEBUG - --- Listening to Audio Stream ---
+2024-09-18 21:30:38,163 - debugger - DEBUG - Noise classified as: other | Gunshot:   1.22% | Other:  98.78%
+2024-09-18 21:30:41,204 - debugger - DEBUG - Noise classified as: other | Gunshot:   1.80% | Other:  98.20%
+2024-09-18 21:30:58,152 - debugger - DEBUG - No active detection process to stop
+2024-09-18 21:30:58,152 - debugger - DEBUG - No active detection process to stop
+2024-09-18 21:31:01,664 - debugger - DEBUG - Starting gunshot detection
+2024-09-18 21:31:01,664 - debugger - DEBUG - Starting gunshot detection
+2024-09-18 21:31:01,668 - debugger - DEBUG - Listening to audio stream...
+2024-09-18 21:31:01,668 - debugger - DEBUG - Listening to audio stream...
+2024-09-18 21:31:04,683 - debugger - DEBUG - Stopping gunshot detection
+2024-09-18 21:31:04,683 - debugger - DEBUG - Stopping gunshot detection
+2024-09-18 21:31:05,886 - debugger - DEBUG - Stopped listening to audio stream
+2024-09-18 21:31:05,886 - debugger - DEBUG - Stopped listening to audio stream
+2024-09-18 21:31:06,852 - debugger - DEBUG - Starting gunshot detection
+2024-09-18 21:31:06,852 - debugger - DEBUG - Starting gunshot detection
+2024-09-18 21:31:10,365 - debugger - DEBUG - Detection process already running
+2024-09-18 21:31:10,365 - debugger - DEBUG - Detection process already running
+2024-09-18 21:31:11,520 - debugger - DEBUG - Detection process already running
+2024-09-18 21:31:11,520 - debugger - DEBUG - Detection process already running
+2024-09-18 21:31:12,027 - debugger - DEBUG - Stopping gunshot detection
+2024-09-18 21:31:12,027 - debugger - DEBUG - Stopping gunshot detection
+2024-09-18 21:31:12,579 - debugger - DEBUG - Starting gunshot detection
+2024-09-18 21:31:12,579 - debugger - DEBUG - Starting gunshot detection
+2024-09-18 21:31:36,958 - debugger - DEBUG - --- Listening to Audio Stream ---
+2024-09-18 21:31:39,963 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:31:40,981 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:31:43,027 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:31:44,991 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
+2024-09-18 21:31:47,038 - debugger - DEBUG - Noise classified as: other | Gunshot:   0.00% | Other: 100.00%
