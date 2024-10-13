@@ -16,7 +16,6 @@ from sklearn.preprocessing import LabelBinarizer
 from tensorflow.keras import backend as K
 from twilio.rest import Client
 
-# output logger
 logger = logging.getLogger('debugger')
 logger.setLevel(logging.DEBUG)
 ch = logging.FileHandler('output.log')
@@ -54,7 +53,6 @@ noise_sample = []
 audio_analysis_queue = Queue()
 sms_alert_queue = Queue()
 
-# binarizing labels
 labels = np.load("/Users/adi/Downloads/Gun_Audio/misc/augmented_labels.npy")
 
 labels = np.array([("gun_shot" if label == "gun_shot" else "other") for label in labels])
@@ -62,7 +60,6 @@ label_binarizer = LabelBinarizer()
 labels = label_binarizer.fit_transform(labels)
 labels = np.hstack((labels, 1 - labels))
 
-## Librosa Wrapper Function Definitions ##
 def _stft(y, n_fft, hop_length, win_length):
     return librosa.stft(y=y, n_fft=n_fft, hop_length=hop_length, win_length=win_length)
 
@@ -75,7 +72,6 @@ def _amp_to_db(x):
 def _db_to_amp(x):
     return librosa.core.perceptual_weighting(x, frequencies=1.0)
 
-# noise reduction function
 def remove_noise(audio_clip,
                  noise_clip,
                  n_grad_freq=2,
@@ -105,14 +101,12 @@ def remove_noise(audio_clip,
 
     """
 
-    # Debugging
     if verbose:
         start = time.time()
 
     noise_stft = _stft(noise_clip, n_fft, hop_length, win_length)
-    noise_stft_db = _amp_to_db(np.abs(noise_stft))  # Converts the sample units to dB
+    noise_stft_db = _amp_to_db(np.abs(noise_stft))
 
-    # Calculates statistics over the noise sample
     mean_freq_noise = np.mean(noise_stft_db, axis=1)
     std_freq_noise = np.std(noise_stft_db, axis=1)
     noise_thresh = mean_freq_noise + std_freq_noise * n_std_thresh
@@ -121,7 +115,6 @@ def remove_noise(audio_clip,
         print("STFT on noise:", td(seconds=time.time() - start))
         start = time.time()
 
-    # Takes a STFT over the signal sample
     sig_stft = _stft(audio_clip, n_fft, hop_length, win_length)
     sig_stft_db = _amp_to_db(np.abs(sig_stft))
 
@@ -129,13 +122,11 @@ def remove_noise(audio_clip,
         print("STFT on signal:", td(seconds=time.time() - start))
         start = time.time()
 
-    # Calculates value to which to mask dB
     mask_gain_dB = np.min(_amp_to_db(np.abs(sig_stft)))
 
     if verbose:
         print("Noise Threshold & Mask Gain in dB: ", noise_thresh, mask_gain_dB)
 
-    # Creates a smoothing filter for the mask in time and frequency
     smoothing_filter = np.outer(
         np.concatenate(
             [
@@ -190,7 +181,6 @@ def remove_noise(audio_clip,
     return recovered_signal
 
 
-# Converting 1D Sound Arrays into Spectrograms #
 def power_to_db(S, ref=1.0, amin=1e-10, top_db=80.0):
     S = np.asarray(S)
     if amin <= 0:
@@ -224,9 +214,6 @@ def convert_audio_to_spectrogram(data):
     return spectrogram
 
 
-# WAV File Composition Function
-
-# Saves a two-second gunshot sample as a WAV file
 def create_gunshot_wav_file(microphone_data, index, timestamp):
     sf.write("/Users/adi/Downloads/Gun_Audio/gunshots/Gunshot Sound Sample #"
              + str(index) + " (" + str(timestamp) + ").wav", microphone_data, 22050)
@@ -240,7 +227,6 @@ def auc(y_true, y_pred):
     K.get_session().run(tf.local_variables_initializer())
     return auc
 
-# load model & set input shape
 interpreter_1 = tf.lite.Interpreter(model_path = "/Users/adi/Downloads/Gun_Audio/1D.tflite")
 interpreter_1.allocate_tensors()
 input_details_1 = interpreter_1.get_input_details()
@@ -298,7 +284,6 @@ status_stop_event = Event()
 status_thread = Thread(target=print_status, args=(status_stop_event,))
 status_thread.start()
 
-# Callback Thread
 def callback(in_data, frame_count, time_info, status):
     global sound_data
     sound_buffer = np.frombuffer(in_data, dtype="float32")
@@ -330,7 +315,6 @@ try:
         microphone_data = np.array(audio_analysis_queue.get(), dtype="float32")
         time_of_sample_occurrence = audio_analysis_queue.get()
 
-        # process & log
         maximum_frequency_value = np.max(microphone_data)
         if maximum_frequency_value >= AUDIO_VOLUME_THRESHOLD:
             modified_microphone_data = librosa.resample(y=microphone_data, orig_sr=AUDIO_RATE, target_sr=22050)
